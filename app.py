@@ -5,7 +5,7 @@ import sys
 sys.path.append("./Scripts/")
 from Scripts import mask  # maskモジュールをインポート
 from Scripts import tagger  # taggerモジュールをインポート
-from Scripts import Kakikomi  # taggerモジュールをインポート
+from Scripts import Kakikomi
 import os
 from datetime import datetime
 import webbrowser
