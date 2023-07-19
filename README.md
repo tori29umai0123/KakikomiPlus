@@ -4,7 +4,7 @@ KakikomiPlusは元の絵を極力保ったままAIによって描きこみを生
 
 # Install
 ①以下のColabのリンクをクリックしてください<br>
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tori29umai0123/KakikomiPlus/blob/master/KakikomiPlus.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tori29umai0123/KakikomiPlus/blob/main/KakikomiPuls.ipynb)
 
 ②Colabのメニューから、『ランタイム』→『ランタイムのタイプを変更』→以下のように設定<br>
 ![2](https://github.com/tori29umai0123/KakikomiPlus/assets/72191117/4730137b-23ab-4c6c-aa4d-1d9fab92e1a1)<br>
